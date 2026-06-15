@@ -12,7 +12,7 @@
 }
 
 body{
-    background-image: url(Images/Background-Image.jpg);
+    background-image: url(Background-Image.jpg);
     background-size: cover;
     background-position: center;
     background-repeat: no-repeat;
@@ -120,5 +120,22 @@ button:hover{
     button{
         font-size: 100px;
         width: 1000px;
+    }
+}
+
+@media (min-width: 769px) and (min-width: 1200px){
+    .title-box{
+        font-size: 37.5px;
+        text-shadow: 2px 2px #E8F2F1;
+    }
+
+    .logo-image1{
+        width: 150px;
+        height: 150px;
+    }
+
+    .logo-image2{
+        width: 150px;
+        height: 150px;
     }
 }
