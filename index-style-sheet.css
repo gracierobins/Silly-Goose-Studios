@@ -41,7 +41,7 @@ body{
     visibility: visible;
     position: fixed;
     top: 30px;
-    left: 30%;
+    left: 27.5%;
     transform: translate(-50%);
     width: 150px;
     height: 150px;
@@ -51,7 +51,7 @@ body{
     visibility: visible;
     position: fixed;
     top: 30px;
-    left: 70%;
+    left: 72.5%;
     transform: translate(-50%);
     width: 150px;
     height: 150px;
@@ -120,24 +120,5 @@ button:hover{
     button{
         font-size: 100px;
         width: 1000px;
-    }
-}
-
-@media (min-width: 769px) and (min-width: 1200px){
-    .title-box{
-        font-size: 37.5px;
-        text-shadow: 2px 2px #E8F2F1;
-    }
-
-    .logo-image1{
-        width: 150px;
-        height: 150px;
-        left: 10%;
-    }
-
-    .logo-image2{
-        width: 150px;
-        height: 150px;
-        left: 100%;
     }
 }
