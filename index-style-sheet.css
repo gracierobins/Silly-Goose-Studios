@@ -132,10 +132,12 @@ button:hover{
     .logo-image1{
         width: 150px;
         height: 150px;
+        left: 25%;
     }
 
     .logo-image2{
         width: 150px;
         height: 150px;
+        left: 75%;
     }
 }
