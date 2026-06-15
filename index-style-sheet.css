@@ -41,7 +41,7 @@ body{
     visibility: visible;
     position: fixed;
     top: 30px;
-    left: 27.5%;
+    left: 25%;
     transform: translate(-50%);
     width: 150px;
     height: 150px;
@@ -51,7 +51,7 @@ body{
     visibility: visible;
     position: fixed;
     top: 30px;
-    left: 72.5%;
+    left: 75%;
     transform: translate(-50%);
     width: 150px;
     height: 150px;
