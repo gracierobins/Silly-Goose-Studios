@@ -142,13 +142,15 @@ button:hover{
     .logo-image1{
         width: 75px;
         height: 75px;
-        left: 25%;
+        left: 20%;
+        top: 25px;
     }
 
     .logo-image2{
         width: 75px;
         height: 75px;
-        left: 75%;
+        left: 80%;
+        top: 25px;
     }
 
     .popup{
