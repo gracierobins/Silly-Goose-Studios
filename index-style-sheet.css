@@ -132,3 +132,32 @@ button:hover{
         left: 85%;
     }
 }
+
+@media (max-width: 768px){
+    .title-box{
+        font-size: 25px;
+    }
+
+    .logo-image1{
+        width: 75px;
+        height: 75px;
+        left: 25%;
+    }
+
+    .logo-image2{
+        width: 75px;
+        height: 75px;
+        left: 75%;
+    }
+
+    .popup{
+        width: 375px;
+        height: 200px;
+        font-size: 25px;
+    }
+
+    button{
+        font-size: 25px;
+        width: 250px;
+    }
+}
