@@ -97,7 +97,6 @@ button:hover{
     .title-box{
         font-size: 100px;
         text-shadow: 4px 4px #E8F2F1;
-        padding: 25px;
     }
 
     .logo-image1{
@@ -137,6 +136,7 @@ button:hover{
 @media (max-width: 768px){
     .title-box{
         font-size: 25px;
+        padding: 25px;
     }
 
     .logo-image1{
