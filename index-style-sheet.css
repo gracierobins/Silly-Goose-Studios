@@ -125,14 +125,10 @@ button:hover{
 
 @media (min-width: 769px) and (max-width: 1200px){
     .logo-image1{
-        width: 175px;
-        height: 175px;
-        left: 20%;
+        left: 15%;
     }
 
     .logo-image2{
-        width: 175px;
-        height: 175px;
-        left: 80%;
+        left: 85%;
     }
 }
